@@ -1,0 +1,21 @@
+
+body{
+    /* background-color: rgb(17, 19, 15); */
+    background: url(./Zsa-Zsa-Gabor-necklace-dark-grey-background-4.jpg);
+    z-index: -5;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw;
+}
+.para{
+    color: whitesmoke;
+    font-family: var(--roboto);
+    font-weight: 500;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.button{
+    border: 1px solid grey;
+    border-radius: 4px;
+}
